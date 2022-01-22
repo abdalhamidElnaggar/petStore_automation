@@ -1,1 +1,2 @@
-# petStore_automationdda
+# petStore APIs automation using RestAssured java framework
+
