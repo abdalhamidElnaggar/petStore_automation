@@ -2,7 +2,4 @@
 APIs autmation using RestAssured for [Petstore](https://petstore.swagger.io/)
 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
-
 
